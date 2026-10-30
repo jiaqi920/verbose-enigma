@@ -1,0 +1,2 @@
+2.0.0.0
+https://github.com/jiaqi920/verbose-enigma/raw/refs/heads/main/BookV2.0.0.0.exe
